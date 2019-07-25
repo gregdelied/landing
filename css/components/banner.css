@@ -1,0 +1,25 @@
+.container {
+  width: 500px;
+  margin: auto;
+}
+
+.banner{
+  background-image: url("https://i.eurosport.com/2013/06/08/1024756-19072027-2560-1440.jpg?w=1850");
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.btn-primary {
+  padding: 15px;
+  display: inline-block;
+  background-color: #FF4500;
+  color: black;
+  border-radius: 50px;
+}
+
+.btn-primary:hover {
+  background-color: black;
+  color: white;
+}
+
